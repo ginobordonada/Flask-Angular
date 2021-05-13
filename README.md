@@ -6,7 +6,6 @@ This project is admin page which built with Flask and Angular 8
 + Angular8
 
 #### Preview
-![Relevance feedback image](https://github.com/ericserraupwork/Flask-Angular/blob/master/Screenshots/f_screen1.png)
 ![Relevance feedback image](https://github.com/ericserraupwork/Flask-Angular/blob/master/Screenshots/f_screen2.png)
 ![Relevance feedback image](https://github.com/ericserraupwork/Flask-Angular/blob/master/Screenshots/f_screen3.png)
 ![Relevance feedback image](https://github.com/ericserraupwork/Flask-Angular/blob/master/Screenshots/f_screen4.png)
